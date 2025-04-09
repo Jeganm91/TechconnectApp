@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Source New\\Tech Connect (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23D0752F-FE68-4D43-9642-6F6D6EC65426}|TechConnect\\TechConnect.csproj|d:\\source new\\tech connect (1)\\techconnect\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{23D0752F-FE68-4D43-9642-6F6D6EC65426}|TechConnect\\TechConnect.csproj|solutionrelative:techconnect\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Source New\\Tech Connect (1)\\TechConnect\\Dockerfile",
+              "RelativeDocumentMoniker": "TechConnect\\Dockerfile",
+              "ToolTip": "D:\\Source New\\Tech Connect (1)\\TechConnect\\Dockerfile",
+              "RelativeToolTip": "TechConnect\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T09:54:02.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿@model TechConnect.Models.Registrant
+
+@{
+    ViewData["Title"] = "End";
+}
+
+@{
+    <h1 id="message">Registration Successfully Completed @Model.UserName</h1>
+}
+
+<div>
+    <a asp-action="UserLogin">Back to Login page</a>
+</div>
